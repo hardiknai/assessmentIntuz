@@ -1,0 +1,64 @@
+.card {
+  overflow: hidden;
+  border-radius: 2px;
+  background-color: #fff;
+  box-shadow: 0px 2px 8px rgba(0, 0, 0, .2);
+  display: inline-block;
+  margin: 0 0 1em;
+  width: 100%;
+}
+
+.card__img {
+  overflow: hidden;
+}
+
+.card__img__content {
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 120px;
+  width: 100%;
+  overflow: hidden;
+}
+
+.card__description {
+  display: flex;
+  flex-direction: column;
+  padding: 8px;
+}
+
+.card__description__name {
+  margin: 0 0 5px 0;
+  font-size: 14px;
+  font-weight: 700;
+  color: #3E5159;
+}
+
+.card__description__location {
+  margin: 0 0 15px 0;
+  font-size: 12px;
+  font-weight: 400;
+  color: #5F7D8B;
+}
+
+.card__description__value {
+  margin: 0 0 7px 0;
+  font-size: 20px;
+  font-weight: 600;
+  color: #F15A25;
+}
+
+.card__description__value--strike {
+  text-decoration: line-through;
+  margin: 0 0 3px 0;
+  font-size: 14px;
+  font-weight: 600;
+  color: #F15A25;
+}
+
+.card__description__parcel {
+  margin: 0;
+  font-size: 12px;
+  font-weight: 600;
+  color: #F15A25;
+}
