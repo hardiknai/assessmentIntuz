@@ -1,0 +1,71 @@
+[{
+  "_id": {
+    "$oid": "5ecf2780e8327d45f48249bf"
+  },
+  "name": "Good night",
+  "description": "Goodknight Naturals Neem Liquid Vapouriser Combo Pack",
+  "price": "20",
+  "weight": "10",
+  "image": "https://www.nsrcel.org/wp-content/uploads/2018/01/product.png",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ed242017b3a7826fc938027"
+  },
+  "name": "Philip Whitney 4x6 Wooden Picture Photo Frame Standing",
+  "description": "Wooden Picture Photo Frame Standing",
+  "price": "500",
+  "weight": "100GM",
+  "image": "https://www.nsrcel.org/wp-content/uploads/2018/01/product.png",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ed242847b3a7826fc938028"
+  },
+  "name": "RIBBA 4\"x6\" Picture Frame, black, hanging or standing",
+  "description": "RIBBA 4\"x6\" Picture Frame, black, hanging or standing",
+  "price": "700",
+  "weight": "150GM",
+  "image": "https://www.nsrcel.org/wp-content/uploads/2018/01/product.png",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ed2435a7b3a7826fc938029"
+  },
+  "name": "Pink and Light Yellow Rose Garland -  Ribbon - ",
+  "description": "Pink and Light Yellow Rose Garland - 46 inches Ribbon - 20 inches",
+  "price": "90",
+  "weight": "46 inches",
+  "image": "https://www.nsrcel.org/wp-content/uploads/2018/01/product.png",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ed245527b3a7826fc93802a"
+  },
+  "name": "electric vehicle",
+  "description": "Startups look to outpace OEMs in India's electric vehicle space",
+  "price": "20",
+  "weight": "90",
+  "image": "https://www.nsrcel.org/wp-content/uploads/2018/01/product.png",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ed248f87b3a7826fc93802c"
+  },
+  "name": "banner",
+  "description": "Electric & Non-Electric Mosquito Repellent Products",
+  "price": "10",
+  "weight": "90",
+  "image": "https://www.nsrcel.org/wp-content/uploads/2018/01/product.png",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ed249287b3a7826fc93802d"
+  },
+  "name": "Steam Electric Iron",
+  "description": "Steam Electric Iron",
+  "price": "90",
+  "weight": "20",
+  "image": "https://www.nsrcel.org/wp-content/uploads/2018/01/product.png",
+  "__v": 0
+}]
